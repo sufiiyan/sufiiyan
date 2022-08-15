@@ -4,7 +4,7 @@
 - 💬 Ask me about C, python, HTML. 
 - 📫 How to reach me: sufixyaan@gmail.com
 
-### 🧰 Languages and Tools:
+### 💻 Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank">
  <img  style="height: 40px;
