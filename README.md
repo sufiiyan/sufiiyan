@@ -42,3 +42,15 @@
             width: 40px; margin-right: 12px;" 
             src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
 </a>
+
+### 📌 Connect 
+<a href="https://www.instagram.com/sufiwhyan/">
+ <img style="height: 35px;
+            width: 35px; margin-right: 12px;"
+            src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+</a>
+<a href="mailto:sufixyaan@gmail.com">
+ <img style="height: 35px;
+            width: 35px;"
+            src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg">
+</a>
