@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning DSA with javascript and HTML-CSS 
 - 💬 Ask me about C, python, HTML. 
-- 📫 How to reach me: sufixyaan@gmail.com
+- 📫 How to reach me: Ping me on discord - Michael Scarn#1890
+
 
 ### 💻 Languages and Tools:
 
