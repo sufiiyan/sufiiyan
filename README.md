@@ -43,7 +43,7 @@
             src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
 </a>
 
-### 📌 How to reach me  
+### 📌 Connect   
 <a href="https://www.instagram.com/sufiwhyan/">
  <img style="height: 35px;
             width: 35px; margin-right: 12px;"
