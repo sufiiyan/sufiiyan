@@ -1,6 +1,6 @@
  # Hello there 👋, I'm Sufiyan.
 
-- 🌱 I’m currently learning DSA with javascript and HTML-CSS 
+- 🌱 I’m currently learning Javascript and HTML-CSS 
 - 💬 Ask me about C, python, HTML. 
 - 📫 How to reach me: Ping me on discord - Michael Scarn#1890
 
