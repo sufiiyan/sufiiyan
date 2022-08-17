@@ -1,4 +1,6 @@
  # Hello there 👋, I'm Sufiyan.
+ 
+ #### I'm a Computer Sciece student with a passion for Web development.  
 
 - 🌱 I’m currently learning Javascript and HTML-CSS 
 - 💬 Ask me about C, python, HTML. 
