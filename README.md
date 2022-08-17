@@ -51,6 +51,6 @@
 </a>
 <a href="mailto:sufixyaan@gmail.com">
  <img style="height: 35px;
-            width: 35px;"
+            width: 35px; margin-left: 10px"
             src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg">
 </a>
