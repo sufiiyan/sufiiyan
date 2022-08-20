@@ -1,10 +1,9 @@
  # Hello there 👋, I'm Sufiyan.
  
- #### I'm a Computer Sciece student with a passion for Web development.  
+ #### I'm a Computer Sciece student with a passion for Web development. I love to spend my time in learing new things and putting them together to make something. I also spend my time playing Badminton and Minecraft. 
 
-- 🌱 I’m currently learning Javascript and HTML-CSS 
-- 💬 Ask me about C, python, HTML. 
-- 📫 How to reach me: Ping me on discord - Michael Scarn#1890
+
+- How to reach me: Ping me on discord - Michael Scarn#1890
 
 
 ### 💻 Languages and Tools:
