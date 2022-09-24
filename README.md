@@ -46,28 +46,10 @@ Ping me on discord - Michael Scarn#1890
                 src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png">
             </a>
             &nbsp;
-            <a href="https://getbootstrap.com/" target="_blank">
-                <img style="height: 35px;
-                width: 35px; max-width: 100%;" 
-                src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
-            </a>
-            &nbsp;
             <a href="https://www.linux.org/" target="_blank">
                 <img style="height: 35px;
                 width: 35px; max-width: 100%;" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-            </a>
-            &nbsp;
-            <a href="https://pop.system76.com/" target="_blank">
-                <img style="height: 33px;
-                width: 33px;max-width: 100%;" 
-                src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pop_OS-logo.png">
-            </a>
-             &nbsp;
-            <a href="https://www.verilog.com/" target="_blank">
-                <img style="height: 33px;
-                width: 33px;max-width: 100%;" 
-                src="https://images-na.ssl-images-amazon.com/images/I/41yQQYkOtaL.png">
             </a>
             &nbsp;
             <a href="https://code.visualstudio.com/" target="_blank">
