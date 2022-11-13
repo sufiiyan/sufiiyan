@@ -5,7 +5,7 @@
  &nbsp;
 
 - How to reach me: **Drop me a mail <a href="mailto:sufixyaan@gmail.com">here</a>** or  
-Ping me on discord - Michael Scarn#1890  
+Ping me on discord - okabe#1890  
  &nbsp;
 
 ### 💻 Languages and Tools:
@@ -60,13 +60,7 @@ Ping me on discord - Michael Scarn#1890
         </p>
         
 ### 📌 Connect   
-<p style="text-align: justify;">
-            <a href="https://www.instagram.com/sufiwhyan/">
-                <img style="height: 32px;
-                           width: 32px; max-width: 100%;"
-                           src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
-            &nbsp;
-            <a href="https://www.linkedin.com/in/sufiyan-pasha-37a810248/">
-                <img style="height: 32px; width: 32px; max-width: 100%; " src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg">
-            </a>
-        </p>
+<p align = "justify">
+ <a href = "https://www.linkedin.com/in/sufiyan-pasha-37a810248/"><img src = "https://github.com/sufiiyan/sufiiyan/blob/main/files/Linkedin.png" height = 40 width = 40/></a>
+ <a href = "https://instagram.com/sufiwhyan"><img src = "https://github.com/sufiiyan/sufiiyan/blob/main/files/Instagram.png" height = 40 width = 40/></a>
+</p>
